@@ -68,10 +68,10 @@ To start the project <laravel_apistudents>, you must follow the following steps:
 2. cp .env.example .env
 3. php artisan key:generate
 4. configure the database connection credentials in the .env
-6. sudo chmod -R 755 storage
-7. php artisan migrate:fresh --seed
-8. php artisan storage:link
-9. php artisan serve
+5. sudo chmod -R 755 storage
+6. php artisan migrate:fresh --seed
+7. php artisan storage:link
+8. php artisan serve
 
 > Windows:
 
@@ -81,7 +81,7 @@ To start the project <laravel_apistudents>, you must follow the following steps:
 4. configure the database connection credentials in the .env
 5. php artisan migrate:fresh --seed
 6. php artisan storage:link
-6. php artisan serve
+7. php artisan serve
 
 ## 🚀 Start the service on the route: 
 > [http://127.0.0.1:8000/api/students/](http://127.0.0.1:8000/api/students/)
