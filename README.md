@@ -27,7 +27,7 @@ Computer Version:
 
 > <strong> This laravel project is an api that allows you to save information about a student with their respective avatar</strong>
 
-<img src="preview.png" width="350" alt="proyect"/>
+<img src="preview.PNG" width="350" alt="proyect"/>
 
 <br>
 
